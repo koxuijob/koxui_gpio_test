@@ -1,1 +1,2 @@
-this is koxui_gpio_test
+This is koxui gpio driver test.
+
